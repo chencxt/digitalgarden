@@ -12,7 +12,7 @@
 本项目基于此资料进行部署：https://anotherdayu.com/2022/4222/
 第一次同步测试。
 
-
+![attachment/e8ac14214564551746c7d8cfd7643b63.png](/img/user/05publishedweb/attachment/e8ac14214564551746c7d8cfd7643b63.png)
 
 
 曾用域名：https://digitalgarden-ebon-gamma.vercel.app/
