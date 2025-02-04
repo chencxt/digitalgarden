@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"]}
 ---
 
-最后更新时间：2025-02-03 21:32:21
+最后更新时间：2025-02-04 18:53:02
 
 
 
@@ -15,9 +15,11 @@
 ![attachment/e8ac14214564551746c7d8cfd7643b63.png](/img/user/05publishedweb/attachment/e8ac14214564551746c7d8cfd7643b63.png)
 
 
-曾用域名：https://digitalgarden-ebon-gamma.vercel.app/
+当前域名：www.overloaddg.site
+备用域名：overloaddg.site
+曾用域名1：digitalgarden-ebon-gamma.vercel.app
+曾用域名2：overloaddigitalgarden.vercel.app
 
-当前域名：https://overloaddigitalgarden.vercel.app/
 
 调试记录2025-02-03 21:03:26：其它页面暂时不清楚，如果需要修改home页面的md名字，需要在push之后把原来的名字的md文件删除才能同步，否则会造成重标签错误。
 
