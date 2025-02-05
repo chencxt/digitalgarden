@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-02-05T16:30:31.799+08:00"}
+{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-02-05T16:48:03.238+08:00"}
 ---
 
 # 欢迎来到 *Overload过载* 的数字花园：
@@ -11,7 +11,6 @@
 
 > [!Domain]
 > 当前域名：www.overloaddg.site
-> 备用域名：overloaddg.site
 > 曾用域名1：digitalgarden-ebon-gamma.vercel.app
 > 曾用域名2：overloaddigitalgarden.vercel.app
 
@@ -23,20 +22,28 @@
 <center><mark style="background: #D2B3FFA6;">ImageINFO:BiliBili@ichiTATa ; UID=2096118</mark></center>
 
 ---
+
+## 总目录：
+[[05publishedweb/W001-网页调试日志\|W001-网页调试日志]]
+[[05publishedweb/W002-学习进度/W002-01学习进度-索引\|W002-01学习进度-索引]]
+
+
+
+
+
+
 | File                                                                                                     | file.ctime          | file.folder                          |
 | -------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------ |
 | [[05publishedweb/HomePage\|HomePage]]                                                                 | 2025-02-03_20:10:50 | 05publishedweb                       |
 | [[05publishedweb/W001-网页调试日志\|W001-网页调试日志]]                                                           | 2025-02-04_18:39:40 | 05publishedweb                       |
-| [[05publishedweb/W002-学习进度/测试对照组文档\|测试对照组文档]]                                                         | 2025-02-05_11:24:56 | 05publishedweb/W002-学习进度             |
 | [[05publishedweb/W002-学习进度/测试文档\|测试文档]]                                                               | 2025-02-05_11:27:05 | 05publishedweb/W002-学习进度             |
+| [[05publishedweb/W002-学习进度/W002-01学习进度-索引\|W002-01学习进度-索引]]                                           | 2025-02-05_11:24:56 | 05publishedweb/W002-学习进度             |
 | [[05publishedweb/W002-学习进度/01Linux学习笔记/250205_Linux_011UBOOT启动流程详解 1\|250205_Linux_011UBOOT启动流程详解 1]] | 2025-02-05_11:17:18 | 05publishedweb/W002-学习进度/01Linux学习笔记 |
+| [[05publishedweb/W003-文学区/W003-01文学区-索引\|W003-01文学区-索引]]                                              | 2025-02-05_16:48:28 | 05publishedweb/W003-文学区              |
+| [[05publishedweb/W003-文学区/W003-02《牛子的诗》\|W003-02《牛子的诗》]]                                              | 2025-02-05_16:48:48 | 05publishedweb/W003-文学区              |
 
 { .block-language-dataview}
 
-
-
-## 总目录：
-[[05publishedweb/W001-网页调试日志\|W001-网页调试日志]]
 
 ## 其它：
 
