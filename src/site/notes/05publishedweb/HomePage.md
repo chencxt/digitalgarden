@@ -49,6 +49,7 @@
 | [[05publishedweb/W002-学习进度/测试文档\|测试文档]]                                                                         | 2025-02-05_11:27:05 | 05publishedweb/W002-学习进度             |
 | [[05publishedweb/W002-学习进度/01Linux学习笔记/250205_Linux_011UBOOT启动流程详解 1\|250205_Linux_011UBOOT启动流程详解 1]]           | 2025-02-05_11:17:18 | 05publishedweb/W002-学习进度/01Linux学习笔记 |
 | [[05publishedweb/W002-学习进度/01Linux学习笔记/250210_Linux_021记录一次成功的linux系统移植 1\|250210_Linux_021记录一次成功的linux系统移植 1]] | 2025-02-10_11:56:57 | 05publishedweb/W002-学习进度/01Linux学习笔记 |
+| [[05publishedweb/W002-学习进度/01Linux学习笔记/250220-006TD4CPU复刻 1\|250220-006TD4CPU复刻 1]]                             | 2025-02-20_10:37:45 | 05publishedweb/W002-学习进度/01Linux学习笔记 |
 | [[05publishedweb/W003-文学区/W003-01文学区-索引\|W003-01文学区-索引]]                                                        | 2025-02-05_16:48:28 | 05publishedweb/W003-文学区              |
 | [[05publishedweb/W003-文学区/W003-02《牛子的诗》\|W003-02《牛子的诗》]]                                                        | 2025-02-05_16:48:48 | 05publishedweb/W003-文学区              |
 
