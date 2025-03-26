@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-26T20:11:20.071+08:00"}
+{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-26T22:01:49.986+08:00"}
 ---
+
 
 # 欢迎来到 *Overload过载* 的数字花园：
 
@@ -10,6 +11,9 @@
 --- dg-publish: true dg-home: true ---
 
 <div style=" width: 100%; height:180;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/PageTurnClock?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%23ccc&layout-style=Default" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+```widgets
+type: clock
+```
 
 
 > [!Domain]
