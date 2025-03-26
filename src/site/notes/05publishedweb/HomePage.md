@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-26T23:01:37.814+08:00"}
+{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-26T23:19:01.623+08:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 最后更新时间：2025-03-26 22:47:03
 --- dg-publish: true dg-home: true ---
 
-<div style=" width: 100%; height:180;overflow: visible; "><iframe src="https://widget.pkmer.cn/free/PageTurnClock?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%23ccc&layout-style=Default" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+<div style=" width: 100%; height:180;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/PageTurnClock?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%23ccc&layout-style=Default" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
 
 
 > [!Domain]
@@ -22,7 +22,7 @@
 > 曾用域名1：digitalgarden-ebon-gamma.vercel.app
 > 曾用域名2：overloaddigitalgarden.vercel.app
 
-<div style=" width: 100%; height:320;overflow: visible; "><iframe src="https://widget.pkmer.cn/free/ThemeCalendar?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%23AF6DC5FF&theme=%E5%A4%A9%E6%B0%94%E4%B8%BB%E9%A2%98&is-sunday=False&select-theme=weather" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+<div style=" width: 100%; height:100%;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/ThemeCalendar?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%23AF6DC5FF&theme=%E5%A4%A9%E6%B0%94%E4%B8%BB%E9%A2%98&is-sunday=False&select-theme=weather" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-<div style=" width: 100%; height:360;overflow: visible; "><iframe src="https://widget.pkmer.cn/free/MineSweeper?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme=%E4%BA%AE%E8%89%B2%E6%A8%A1%E5%BC%8F&select-theme=light" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+<div style=" width: 100%; height:720;overflow: visible; "><iframe src="https://widget.pkmer.cn/free/MineSweeper?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme=%E4%BA%AE%E8%89%B2%E6%A8%A1%E5%BC%8F&select-theme=light" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
 
 
 
