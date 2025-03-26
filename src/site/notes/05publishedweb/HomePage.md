@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-26T22:29:36.209+08:00"}
+{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-26T22:47:05.974+08:00"}
 ---
 
 
@@ -7,7 +7,9 @@
 
 <div style=" width: 100%;  height:40;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/miniTianqi?user=4c534e44-e5fc-41cf-acca-2119af75d544&select-theme=ta&theme=%E7%BB%8F%E5%85%B8&input-text=%E5%A4%A9%E6%B4%A5&theme-color=%23747474&select-icon=pear" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
 
-最后更新时间：2025-02-05 09:29:35
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1949924597&auto=1&height=66"></iframe>
+
+最后更新时间：2025-03-26 22:47:03
 --- dg-publish: true dg-home: true ---
 
 <div style=" width: 100%; height:180;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/PageTurnClock?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%23ccc&layout-style=Default" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
@@ -39,9 +41,6 @@
 
 
 <div style=" width: 100%; height:100;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/SimpleCountdown?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%237d7d7d&input-text=%E8%B7%9D%E7%A6%BB%E6%9C%AC%E7%AB%99%E5%BB%BA%E7%AB%99&date-picker=1738425600000" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
-
-
-
 
 
 
@@ -107,6 +106,12 @@
 | [[05publishedweb/W003-文学区/W003-0005辩证唯物主义核心知识点大合集/250311-09-第9章：科学的思维方法\|250311-09-第9章：科学的思维方法]]                                                          | 2025-03-19_09:46:37 | 05publishedweb/W003-文学区/W003-0005辩证唯物主义核心知识点大合集 |
 
 { .block-language-dataview}
+
+
+
+<div style=" width: 100%; height:360;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/MineSweeper?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme=%E4%BA%AE%E8%89%B2%E6%A8%A1%E5%BC%8F&select-theme=light" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+
+
 
 
 ## 其它：
