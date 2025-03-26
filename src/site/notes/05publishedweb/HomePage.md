@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-26T22:01:49.986+08:00"}
+{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-26T22:29:36.209+08:00"}
 ---
 
 
@@ -11,9 +11,6 @@
 --- dg-publish: true dg-home: true ---
 
 <div style=" width: 100%; height:180;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/PageTurnClock?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%23ccc&layout-style=Default" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
-```widgets
-type: clock
-```
 
 
 > [!Domain]
@@ -21,8 +18,11 @@ type: clock
 > 曾用域名1：digitalgarden-ebon-gamma.vercel.app
 > 曾用域名2：overloaddigitalgarden.vercel.app
 
-
 <div style=" width: 100%; height:320;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/ThemeCalendar?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%23AF6DC5FF&theme=%E5%A4%A9%E6%B0%94%E4%B8%BB%E9%A2%98&is-sunday=False&select-theme=weather" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+
+
+
+
 
 这里是我的数字花园项目的主发布页。
 本项目基于此资料进行部署：https://anotherdayu.com/2022/4222/
@@ -37,7 +37,13 @@ type: clock
 ---
 
 
-<div style=" width: 100%; height:220;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/CountdownCards?user=4c534e44-e5fc-41cf-acca-2119af75d544&input-text=%E8%B7%9D%E7%A6%BB%E7%BD%91%E7%AB%99%E5%BB%BA%E7%AB%99%E5%BD%93%E5%A4%A9&theme-color=%23CA5F5FFF&date-picker=1738425600000" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+
+<div style=" width: 100%; height:100;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/SimpleCountdown?user=4c534e44-e5fc-41cf-acca-2119af75d544&theme-color=%237d7d7d&input-text=%E8%B7%9D%E7%A6%BB%E6%9C%AC%E7%AB%99%E5%BB%BA%E7%AB%99&date-picker=1738425600000" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+
+
+
+
+
 
 ## 总目录：
 [[05publishedweb/W001-网页调试日志\|W001-网页调试日志]]
