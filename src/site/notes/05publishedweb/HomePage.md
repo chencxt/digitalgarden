@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-27T10:52:45.995+08:00"}
+{"dg-publish":true,"permalink":"/05publishedweb/HomePage/","tags":["gardenEntry"],"noteIcon":"","created":"2025-02-03T20:10:50.159+08:00","updated":"2025-03-27T12:14:35.766+08:00"}
 ---
 
 
 # 欢迎来到 *Overload过载* 的数字花园：
 
 <div style=" width: 100%;  height:40;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/miniTianqi?user=4c534e44-e5fc-41cf-acca-2119af75d544&select-theme=ta&theme=%E7%BB%8F%E5%85%B8&input-text=%E5%A4%A9%E6%B4%A5&theme-color=%23747474&select-icon=pear" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
-
-<p><span>当前天气实时信息</span></p><p><span>当前温度：9℃</span></p><p><span>天气：多云</span></p><p><span>温度范围：9 ~ 13℃</span></p><p><span>湿度：30%</span></p><p><span>风向：北风 3级</span></p><p><span>紫外线：很弱</span></p><p><span>空气质量：良 PM: 21</span></p><p><span>日出: 06:03 日落: 18:29</span></p>
-
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010201&auto=1&height=66"></iframe>
 
